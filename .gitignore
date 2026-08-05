@@ -1,2 +1,5 @@
 techenv/
 .ipynb_checkpoints/
+newplot*.png
+__pycache__/
+*.pyc
